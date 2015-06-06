@@ -2,7 +2,7 @@
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Preap/Schemes/preap.tmTheme",
 	"copy_with_empty_selection": false,
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
