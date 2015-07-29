@@ -1,13 +1,18 @@
 {
 	"centurion_color_grey": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Colorsublime - Themes/Carbonight.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
@@ -20,7 +25,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"tab_size": 2,
-	"theme": "Centurion.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
