@@ -1,9 +1,14 @@
-    {
-      "color_scheme": "Packages/Preap/Schemes/preap-markdown.tmTheme",
-      "draw_centered": true, // Centers the column in the window
-      "draw_indent_guides": false,
-      "font_size": 15,
-      "trim_trailing_white_space_on_save": false,
-      "word_wrap": true,
-      "wrap_width": 80  // Sets the # of characters per line
-    }
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"draw_centered": true,
+	"draw_indent_guides": false,
+  "extensions":
+  [
+    "mdown",
+    "txt",
+    "md"
+  ],
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true,
+	"wrap_width": 80
+}
