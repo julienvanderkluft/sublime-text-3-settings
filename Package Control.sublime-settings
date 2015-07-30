@@ -5,7 +5,10 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
 		"Can I Use",
+		"Color Highlighter",
 		"Emmet",
 		"FileDiffs",
 		"Git",
@@ -17,6 +20,7 @@
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
+		"SideBarGit",
 		"Wrap Plus"
 	]
 }
