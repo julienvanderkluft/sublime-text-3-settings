@@ -1,14 +1,15 @@
 {
 	"centurion_color_grey": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+	"material_theme_contrast_mode": true,
 	"copy_with_empty_selection": false,
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -26,7 +27,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"tab_size": 2,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,

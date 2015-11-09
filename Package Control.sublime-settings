@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -19,11 +20,13 @@
 		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
+		"REM PX",
 		"Sass",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"Twig",
 		"Wrap Plus"
 	]
 }
