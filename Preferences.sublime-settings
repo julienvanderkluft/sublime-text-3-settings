@@ -1,8 +1,7 @@
 {
 	"centurion_color_grey": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-	"material_theme_contrast_mode": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"copy_with_empty_selection": false,
 	"font_size": 11,
 	"highlight_line": true,
@@ -16,6 +15,7 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"material_theme_contrast_mode": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
