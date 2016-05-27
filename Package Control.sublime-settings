@@ -6,26 +6,20 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
 		"AutoFileName",
 		"Can I Use",
-		"Color Highlighter",
+		"Dracula Color Scheme",
 		"Emmet",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
-		"Haml",
-		"Jade",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"Material Theme",
 		"Package Control",
-		"REM PX",
-		"Sass",
 		"SCSS",
-		"SFTP",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"Theme - Spacegray",
 		"Twig",
 		"Wrap Plus"
 	]

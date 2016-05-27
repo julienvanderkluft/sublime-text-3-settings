@@ -9,10 +9,8 @@ Material Theme and Material Theme Darker color scheme
 ## Plugins list
 
 - Alignement
-- All autocomplete
 - AutoFileName
 - Can I Use
-- ColorHighlighter
 - Emmet
 - FileDiffs
 - Git
@@ -36,13 +34,6 @@ Material Theme and Material Theme Darker color scheme
 
 > More infos: https://packagecontrol.io/packages/Alignment
 
-### Plugin: All Autocomplete
-
-#### Features
-Extends the default autocomplete to find matches in all open files
-
-> More infos : https://packagecontrol.io/packages/All%20Autocomplete
-
 ### Plugin: AutoFileName
 
 #### Features
@@ -62,13 +53,6 @@ This plugin lets you instantly find out the css property support via caniuse.com
 Mark or place your cursor over a css property and use the shortcut `ctrl+alt+f` to open a new tab on you webbrowser with the info.
 
 > More infos: https://packagecontrol.io/packages/Can%20I%20Use
-
-### Plugin: ColorHighlighter
-
-#### Features
-ColorHighlighter unobtrusively previews hexadecimal color values by underlaying the selected hex codes in different styles and icons. Also, plugin adds color picker, color format converter and less/sass variables navigation to easily modify colors.
-
-> More infos: https://packagecontrol.io/packages/Color%20Highlighter
 
 ### Plugin: Emmet
 
@@ -151,4 +135,4 @@ OS X: `super+alt+q`
 
 
 ## Supported syntax
-HAML, Jade, SASS, SCSS
+SCSS, Twig
