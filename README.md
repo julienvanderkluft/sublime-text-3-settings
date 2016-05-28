@@ -4,7 +4,7 @@ Here you can find the whole list of plugins and settings that I use on my [Subli
 
 ## Theme and color scheme
 
-Material Theme and Material Theme Darker color scheme
+Spacegray Theme and Dracula color scheme
 
 ## Plugins list
 
