@@ -135,4 +135,4 @@ OS X: `super+alt+q`
 
 
 ## Supported syntax
-SCSS, Twig
+SCSS, Twig, Nunjucks
