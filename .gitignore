@@ -1,8 +1,9 @@
-.DS_Store
-Package Control.cache
-Package Control.last-run
-Package Control.merged-ca-bundle
-Package Control.system-ca-bundle
-Package Control.user-ca-bundle
-sftp_servers
-Snippets
+# sftp configuration file
+sftp-config.json
+
+# Package control specific files
+Package Control.*
+bh_unicode_properties.cache
+
+# Temporary ignored files and folders
+snippets/
