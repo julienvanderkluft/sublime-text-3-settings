@@ -18,6 +18,7 @@ Spacegray Theme and Dracula color scheme
 - Git
 - GitGutter
 - jQuery
+- Local History
 - MarkdownEditing
 - Markdown Preview
 - SideBarEnhancements
@@ -117,6 +118,16 @@ GitGutter show an icon in the gutter area indicating whether a line has been ins
 This is a Sublime Text bundle to help with jQuery functions. It has syntax highlighting and almost all of the jquery methods as snippets.
 
 > More infos: https://packagecontrol.io/packages/jQuery
+
+### Plugin: Local History
+
+#### Features
+A Sublime Text 2/3 plugin for maintaining local history of files. [backup | open | compare | incremental diff].
+
+#### Usage
+Check `Local History` in command panel `super+shit+p`.
+
+> More infos: https://packagecontrol.io/packages/FileDiffs
 
 ### Plugin: MarkdownEditing
 
