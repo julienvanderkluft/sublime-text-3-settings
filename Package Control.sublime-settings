@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Can I Use",
 		"Dracula Color Scheme",
