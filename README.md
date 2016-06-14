@@ -10,6 +10,7 @@ Spacegray Theme and Dracula color scheme
 
 - Alignement
 - AutoFileName
+- BracketHighlighter
 - Can I Use
 - EditorConfig
 - Emmet
@@ -44,6 +45,13 @@ Autocompletes filenames
 If you are looking to autocomplete an image path in an HTML <img> tag, pressing `ctrl+space`, will activate AutoFileName. I list of available files where be ready to select.
 
 > More infos: https://packagecontrol.io/packages/AutoFileName
+
+### Plugin: BracketHighlighter
+
+#### Features
+Bracket Highlighter matches a variety of brackets such as: [], (), {}, "", '', #!xml <tag></tag>, and even custom brackets.
+
+> More infos: https://packagecontrol.io/packages/BracketHighlighter
 
 ### Plugin: Can I Use
 
