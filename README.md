@@ -11,6 +11,7 @@ Spacegray Theme and Dracula color scheme
 - Alignement
 - AutoFileName
 - Can I Use
+- EditorConfig
 - Emmet
 - FileDiffs
 - Git
@@ -53,6 +54,16 @@ This plugin lets you instantly find out the css property support via caniuse.com
 Mark or place your cursor over a css property and use the shortcut `ctrl+alt+f` to open a new tab on you webbrowser with the info.
 
 > More infos: https://packagecontrol.io/packages/Can%20I%20Use
+
+### Plugin: EditorConfig
+
+#### Features
+EditorConfig helps developers maintain consistent coding styles between different editors.
+
+#### Usage
+Documentation: http://editorconfig.org
+
+> More infos: https://packagecontrol.io/packages/EditorConfig
 
 ### Plugin: Emmet
 
