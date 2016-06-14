@@ -17,6 +17,7 @@ Spacegray Theme and Dracula color scheme
 - FileDiffs
 - Git
 - GitGutter
+- jQuery
 - MarkdownEditing
 - Markdown Preview
 - SideBarEnhancements
@@ -109,6 +110,13 @@ Use Git commands via the command panel `super+shit+p`.
 GitGutter show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 
 > More infos : https://packagecontrol.io/packages/GitGutter
+
+### Plugin: jQuery
+
+#### Features
+This is a Sublime Text bundle to help with jQuery functions. It has syntax highlighting and almost all of the jquery methods as snippets.
+
+> More infos: https://packagecontrol.io/packages/jQuery
 
 ### Plugin: MarkdownEditing
 
