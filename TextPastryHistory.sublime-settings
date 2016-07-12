@@ -1,0 +1,41 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\1(261,M)",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\1(261,M)"
+			},
+			"key": "efecb2f5d45fcad055a49872e76d97b7",
+			"label": "\\1(261,M)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "260"
+				},
+				"command": "text_pastry_step",
+				"text": "260"
+			},
+			"key": "a4f23670e1833f3fdb077ca70bbd5d66",
+			"label": "260"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "260"
+		},
+		"command": "text_pastry_step",
+		"text": "260"
+	}
+}

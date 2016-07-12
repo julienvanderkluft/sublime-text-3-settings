@@ -23,6 +23,7 @@ Spacegray Theme and Dracula color scheme
 - Markdown Preview
 - SideBarEnhancements
 - SideBarGit
+- Text Pastry
 - Wrap Plus
 
 ### Plugin: Alignement
@@ -159,6 +160,16 @@ Enhancements to Sublime Text sidebar. Files and folders.
 Add git commands to sidebar.
 
 > More infos: https://packagecontrol.io/packages/SideBarGit
+
+### Plugin: Text Pastry
+
+#### Features
+Extend the power of multiple selections in Sublime Text 2/3. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
+
+#### Usage
+If you're familiar with multiple selections, it's pretty straight forward. Place multiple cursors by using `super+click` or `ctrl+click`, open the `Command Palette` and select `Text Pastry From 1 to X. That's it! We've just pasted incrementing numbers.
+
+> More infos: https://github.com/duydao/Text-Pastry
 
 ### Plugin: Wrap Plus
 
