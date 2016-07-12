@@ -35,7 +35,7 @@ Spacegray Theme and Dracula color scheme
 
 #### Usage
 1. Make a multi-line selection, or multiple selections
-2. Press ctrl+alt+a on Windows and Linux, or cmd+ctrl+a on OS X
+2. Press `ctrl+alt+a` on Windows and Linux, or `cmd+ctrl+a` on OS X
 
 > More infos: https://packagecontrol.io/packages/Alignment
 
@@ -143,7 +143,7 @@ Provides a decent Markdown color scheme (light and dark) with more robust syntax
 Preview and build your markdown files quickly in your web browser.
 
 #### Usage
-Use `cmd+shift+p` `then Markdown Preview` to show commands. 
+Use `super+shift+p` `then Markdown Preview` to show commands. 
 
 > More infos: https://packagecontrol.io/packages/Markdown%20Preview
 
