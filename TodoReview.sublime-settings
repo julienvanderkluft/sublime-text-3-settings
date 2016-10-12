@@ -1,0 +1,5 @@
+{
+  "exclude_folders": [
+    "*node_modules*"
+  ]
+}

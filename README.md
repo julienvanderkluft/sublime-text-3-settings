@@ -24,6 +24,7 @@ Spacegray Theme and Dracula color scheme
 - SideBarEnhancements
 - SideBarGit
 - Text Pastry
+- TodoReview
 - Wrap Plus
 
 ### Plugin: Alignement
@@ -170,6 +171,16 @@ Extend the power of multiple selections in Sublime Text 2/3. Modify selections, 
 If you're familiar with multiple selections, it's pretty straight forward. Place multiple cursors by using `super+click` or `ctrl+click`, open the `Command Palette` and select `Text Pastry From 1 to X. That's it! We've just pasted incrementing numbers.
 
 > More infos: https://github.com/duydao/Text-Pastry
+
+### Plugin: Todo​Review
+
+#### Features
+A SublimeText plugin for reviewing todo (and other) comments within your code.
+
+#### Usage
+Simply open your Sublime Text Command Pallet and find the `TodoReview: Project Files command`. This will generate your TODO List using all files that are currently in your project, except the ones which are excluded in your settings. If you would like to also include your open files within the search, you can use the `TodoReview: Project and Open Files command; it's that easy! You can then use these results to jump to the corresponding result. Additionally, you can right click a file or folder in your sidebar and select TodoReview to limit your search.
+
+> More infos: https://packagecontrol.io/packages/TodoReview
 
 ### Plugin: Wrap Plus
 
