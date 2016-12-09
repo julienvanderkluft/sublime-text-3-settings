@@ -19,9 +19,11 @@
 	],
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
+	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"copy_with_empty_selection": false,
+	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
 		"*.scssc"
