@@ -17,11 +17,18 @@
 		"build/**",
 		"node_modules/**"
 	],
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"copy_with_empty_selection": false,
-	"font_size": 10,
+	"file_exclude_patterns":
+	[
+		"*.scssc"
+	],
+	"font_size": 11,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -43,12 +50,16 @@
 	],
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
-	"spacegray_sidebar_tree_xsmall": true,
-	"spacegray_tabs_large": true,
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_small": true,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
 	"word_wrap": false,
 	"wrap_width": 100
 }
