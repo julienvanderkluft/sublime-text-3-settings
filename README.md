@@ -138,7 +138,7 @@ A Sublime Text 2/3 plugin for maintaining local history of files. [backup | open
 #### Usage
 Check `Local History` in command panel `super+shit+p`.
 
-> More infos: https://packagecontrol.io/packages/FileDiffs
+> More infos: https://packagecontrol.io/packages/Local%20History
 
 ### Plugin: MarkdownEditing
 
