@@ -28,6 +28,7 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SidebarHoverToggle",
+		"sublimetext-edit_in_new_tab-plugin",
 		"Text Pastry",
 		"Theme - Hero",
 		"Theme - Spacegray",
@@ -37,6 +38,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/Skullsneeze/SidebarHoverToggle.git"
+		"https://github.com/Skullsneeze/SidebarHoverToggle.git",
+		"https://github.com/borjacampina/sublimetext-edit_in_new_tab-plugin"
 	]
 }
