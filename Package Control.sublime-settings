@@ -27,10 +27,16 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"SidebarHoverToggle",
 		"Text Pastry",
+		"Theme - Hero",
 		"Theme - Spacegray",
 		"TodoReview",
 		"Twig",
 		"Wrap Plus"
+	],
+	"repositories":
+	[
+		"https://github.com/Skullsneeze/SidebarHoverToggle.git"
 	]
 }
