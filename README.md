@@ -17,12 +17,14 @@ Spacegray Theme and Dracula color scheme
 - FileDiffs
 - Git
 - GitGutter
+- JavaScript Completions
 - jQuery
 - Local History
 - MarkdownEditing
 - Markdown Preview
 - SideBarEnhancements
 - SideBarGit
+- sublimetext-edit_in_new_tab-plugin
 - Text Pastry
 - TodoReview
 - Wrap Plus
@@ -114,6 +116,13 @@ GitGutter show an icon in the gutter area indicating whether a line has been ins
 
 > More infos : https://packagecontrol.io/packages/GitGutter
 
+### Plugin: Java​Script Completions
+
+#### Features
+JavaScript Completions helps you to write your scripts more quickly with hints and completions.
+
+> More infos : https://packagecontrol.io/packages/JavaScript%20Completions
+
 ### Plugin: jQuery
 
 #### Features
@@ -162,6 +171,13 @@ Add git commands to sidebar.
 
 > More infos: https://packagecontrol.io/packages/SideBarGit
 
+### Plugin: sublimetext-edit_in_new_tab-plugin
+
+#### Features
+Edit in new tab from text selection.
+
+> More infos: https://github.com/borjacampina/sublimetext-edit_in_new_tab-plugin
+
 ### Plugin: Text Pastry
 
 #### Features
@@ -195,4 +211,4 @@ OS X: `super+alt+q`
 
 
 ## Supported syntax
-SCSS, Twig, Nunjucks, Apache conf. files
+SCSS, ES6, Twig, Nunjucks, Apache conf. files
