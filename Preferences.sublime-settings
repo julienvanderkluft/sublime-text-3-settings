@@ -28,7 +28,7 @@
 	[
 		"*.scssc"
 	],
-	"font_face": "Roboto Mono",
+	"font_face": "Monaco",
 	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
