@@ -15,14 +15,15 @@ Spacegray Theme and Dracula color scheme
 - EditorConfig
 - Emmet
 - FileDiffs
+- FileManager
 - Git
 - GitGutter
 - JavaScript Completions
+- JavaScript - ES6 Syntax
 - jQuery
 - Local History
 - MarkdownEditing
 - Markdown Preview
-- SideBarEnhancements
 - SideBarGit
 - sublimetext-edit_in_new_tab-plugin
 - Text Pastry
@@ -97,7 +98,14 @@ Shows diffs between the current file, or selection(s) in the current file, and c
 #### Usage
 Check `FileDiffs: Menu` in command panel `super+shit+p`.
 
-> More infos: https://packagecontrol.io/packages/FileDiffs
+> More infos: https://packagecontrol.io/packages/
+
+### Plugin: FileManager
+
+#### Features
+A Sublime Text 3 package to help with file (duplicate, move, create...)
+
+> More infos: https://packagecontrol.io/packages/FileManager
 
 ### Plugin: Git
 
@@ -156,13 +164,6 @@ Preview and build your markdown files quickly in your web browser.
 Use `super+shift+p` `then Markdown Preview` to show commands. 
 
 > More infos: https://packagecontrol.io/packages/Markdown%20Preview
-
-### Plugin: SideBarEnhancements
-
-#### Features
-Enhancements to Sublime Text sidebar. Files and folders.
-
-> More infos: https://packagecontrol.io/packages/SideBarEnhancements
 
 ### Plugin: SideBarGit
 
