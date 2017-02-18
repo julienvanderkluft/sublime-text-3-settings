@@ -4,7 +4,7 @@ Here you can find the whole list of plugins and settings that I use on my [Subli
 
 ## Theme and color scheme
 
-Spacegray Theme and Dracula color scheme
+Agila Theme and Dracula color scheme
 
 ## Plugins list
 
