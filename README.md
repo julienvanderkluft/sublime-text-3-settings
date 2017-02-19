@@ -165,13 +165,6 @@ Use `super+shift+p` `then Markdown Preview` to show commands.
 
 > More infos: https://packagecontrol.io/packages/Markdown%20Preview
 
-### Plugin: SideBarGit
-
-#### Features
-Add git commands to sidebar.
-
-> More infos: https://packagecontrol.io/packages/SideBarGit
-
 ### Plugin: sublimetext-edit_in_new_tab-plugin
 
 #### Features
