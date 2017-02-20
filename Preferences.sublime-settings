@@ -59,6 +59,7 @@
 	"theme_agila_auto_complete_yellow": true,
 	"theme_agila_compact_tab": true,
 	"theme_agila_modified_tab_marker_yellow": true,
+	"theme_agila_compact_sidebar": true,
 	"theme_agila_sidebar_font_xsmall": true,
 	"theme_agila_sidebar_mini": true,
 	"translate_tabs_to_spaces": true,
