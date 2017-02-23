@@ -1,10 +1,12 @@
-# sftp configuration file
+# prevent add of sftp configuration file
 sftp-config.json
 
-# Package control specific files
+# package control specific files
 Package Control.*
 bh_unicode_properties.cache
 oscrypto-ca-bundle.crt
 
-# Temporary ignored files and folders
+# Misc
+TextPastryHistory.sublime-settings
+
 snippets/
