@@ -4,7 +4,7 @@ Here you can find the whole list of plugins and settings that I use on my [Subli
 
 ## Theme and color scheme
 
-Agila Theme and Dracula color scheme
+Monokai Pro (Filter Octagon)
 
 ## Plugins list
 
@@ -12,6 +12,7 @@ Agila Theme and Dracula color scheme
 - AutoFileName
 - BracketHighlighter
 - Can I Use
+- ColorHelper
 - EditorConfig
 - Emmet
 - FileDiffs
@@ -24,7 +25,6 @@ Agila Theme and Dracula color scheme
 - Local History
 - MarkdownEditing
 - Markdown Preview
-- SideBarGit
 - sublimetext-edit_in_new_tab-plugin
 - Text Pastry
 - TodoReview
@@ -69,6 +69,13 @@ This plugin lets you instantly find out the css property support via caniuse.com
 Mark or place your cursor over a css property and use the shortcut `ctrl+alt+f` to open a new tab on you webbrowser with the info.
 
 > More infos: https://packagecontrol.io/packages/Can%20I%20Use
+
+### Plugin: ColorHelper
+
+#### Features
+ColorHelper makes work with colors easier by providing inline color previews in your documents (ST3 build 3118+) and offers tooltips with color previews of stylesheet colors, provides color translation, and allows the storing and accessing of favorite colors in color palettes. Most features are optionally configurable. For the most part, these tooltips should show any time the cursor is in a CSS, SCSS, or SASS color. It should also appear when in HTML style attributes.
+
+> More infos: https://packagecontrol.io/packages/ColorHelper
 
 ### Plugin: EditorConfig
 
@@ -205,4 +212,4 @@ OS X: `super+alt+q`
 
 
 ## Supported syntax
-SCSS, ES6, Twig, Nunjucks, Apache conf. files
+SCSS, ES6, JSX, Twig, Nunjucks, Apache conf. files

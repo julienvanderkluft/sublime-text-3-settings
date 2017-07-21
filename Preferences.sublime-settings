@@ -21,7 +21,7 @@
 	"caret_extra_top": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
 	"copy_with_empty_selection": false,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
@@ -29,7 +29,7 @@
 		"*.scssc"
 	],
 	"font_face": "Monaco",
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -42,8 +42,12 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"monokai_pro_highlight_open_folders": true,
+	"monokai_pro_sidebar_font_size": 11,
+	"monokai_pro_sidebar_row_padding": 5,
+	"monokai_pro_small_scrollbar": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -55,13 +59,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"tab_size": 2,
-	"theme": "Agila Dracula.sublime-theme",
-	"theme_agila_auto_complete_yellow": true,
-	"theme_agila_compact_tab": true,
-	"theme_agila_modified_tab_marker_yellow": true,
-	"theme_agila_compact_sidebar": true,
-	"theme_agila_sidebar_font_xsmall": true,
-	"theme_agila_sidebar_mini": true,
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
