@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"BracketHighlighter",
