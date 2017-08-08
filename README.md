@@ -9,6 +9,7 @@ Monokai Pro (Filter Octagon)
 ## Plugins list
 
 - Alignement
+- All Autocomplete
 - AutoFileName
 - BracketHighlighter
 - Can I Use
@@ -42,6 +43,13 @@ Monokai Pro (Filter Octagon)
 2. Press `ctrl+alt+a` on Windows and Linux, or `cmd+ctrl+a` on OS X
 
 > More infos: https://packagecontrol.io/packages/Alignment
+
+### Plugin: All Autocomplete
+
+#### Features
+Extends the default autocomplete to find matches in all open files.
+
+> More infos: https://packagecontrol.io/packages/All%20Autocomplete
 
 ### Plugin: AutoFileName
 
