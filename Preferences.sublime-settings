@@ -21,20 +21,22 @@
 	"caret_extra_top": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
+	"color_scheme": "Monokai Pro.sublime-color-scheme",
 	"copy_with_empty_selection": false,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
+		".DS_Store",
 		"*.scssc"
 	],
 	"font_face": "Monaco",
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"JavaScript",
+		"SublimeLinter",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -47,7 +49,7 @@
 	"monokai_pro_highlight_open_folders": true,
 	"monokai_pro_sidebar_font_size": 11,
 	"monokai_pro_sidebar_row_padding": 5,
-	"monokai_pro_small_scrollbar": true,
+	"monokai_pro_style_title_bar": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -59,10 +61,11 @@
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"tab_size": 2,
-	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
+	"theme": "Monokai Pro.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": false,
 	"wrap_width": 100
 }
